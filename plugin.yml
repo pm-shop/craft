@@ -1,0 +1,6 @@
+name: CraftCommand
+author: Formulaire.
+version: 0.1
+api: 3.0.0
+main: CraftCommand\Main
+credit: "Realisé par Formulaire à l'aide du plugin FacEssentials appartenant à  Zoumi-Dev"
